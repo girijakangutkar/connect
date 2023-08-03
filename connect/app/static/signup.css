@@ -1,0 +1,37 @@
+h1{
+    padding-top: 0.2em;
+    color: #0f5367;
+}
+
+h3{
+    padding-bottom: 20px;
+    color: #0b7491;
+    font-size: 19px;
+}
+
+.container{
+    position: relative;
+    margin-top: 16em;
+    margin-bottom:3em;
+}
+
+.card{
+    margin-top: 12em;
+    padding: 2em;
+   
+}
+
+#btn{
+    padding: 0.3em;
+    border-radius: 15px ;
+    text-align: center;
+    background-color: #40abc9;
+    color: #0c3e4b;
+    font-weight: bold;
+}
+
+form {
+    text-align: justify;
+    position: relative;
+    font-weight: 22px;
+}

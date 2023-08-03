@@ -1,0 +1,23 @@
+
+h3{
+    text-align: left;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 0.9em;
+    color: #005b75;
+    padding-bottom: 1em;
+}
+
+p{
+    margin-left: 2em;
+    line-height: 1em ;
+}
+
+.card{
+    margin-top: 6em;
+    padding-top: 20px;
+}
+
+.container{
+    margin-top: 16em;
+}

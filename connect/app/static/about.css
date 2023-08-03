@@ -1,0 +1,21 @@
+
+h3{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 0.9em;
+    color: #005b75;
+}
+
+p{
+    margin-left: 3em;
+}
+
+.card{
+    margin-top: 16em;
+    padding:2em;
+    
+}
+
+.container{
+    margin-top: 20px;
+}
